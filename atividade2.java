@@ -2,7 +2,7 @@ package ListaSequencial;
 
 import java.io.*;
 
-public class atividade2 {
+public class Main {
 	static class No{
 		private String conteudo;
 		private No prox;
